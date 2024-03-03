@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FuXingSocialHousing/static/css/main.82bb6d22.css",
+    "main.js": "/FuXingSocialHousing/static/js/main.50573f06.js",
+    "static/js/787.d4aba7ab.chunk.js": "/FuXingSocialHousing/static/js/787.d4aba7ab.chunk.js",
+    "static/media/938.png": "/FuXingSocialHousing/static/media/938.188ee2387aa93f068647.png",
+    "static/media/台北捷運板南線斜式-藍線.png": "/FuXingSocialHousing/static/media/台北捷運板南線斜式-藍線.b4ad57a469222b5901d2.png",
+    "static/media/台北捷運松山新店線(2017-11-22).png": "/FuXingSocialHousing/static/media/台北捷運松山新店線(2017-11-22).e2c509bdf4939f2f78a8.png",
+    "static/media/公車站-萬華運動中心.png": "/FuXingSocialHousing/static/media/公車站-萬華運動中心.0fd9cfbe1f559a869e27.png",
+    "static/media/公車站-洛陽停車場.png": "/FuXingSocialHousing/static/media/公車站-洛陽停車場.fa782c5565f161b77f05.png",
+    "static/media/公車站-福星公園.png": "/FuXingSocialHousing/static/media/公車站-福星公園.1866190d1520220c987c.png",
+    "static/media/Youbike-開封西寧路口.png": "/FuXingSocialHousing/static/media/Youbike-開封西寧路口.f24ba3342ba34d2fb277.png",
+    "static/media/Youbike-洛陽停車場.png": "/FuXingSocialHousing/static/media/Youbike-洛陽停車場.17bf470aeee1586b91b8.png",
+    "static/media/藍29-裁切.png": "/FuXingSocialHousing/static/media/藍29-裁切.7a151ed62b0641ed819d.png",
+    "static/media/mapAll裁切.png": "/FuXingSocialHousing/static/media/mapAll裁切.bfefcf252aa282a3ebda.png",
+    "static/media/TaipeiLogo.svg": "/FuXingSocialHousing/static/media/TaipeiLogo.266340f78df4c80bc530.svg",
+    "index.html": "/FuXingSocialHousing/index.html",
+    "main.82bb6d22.css.map": "/FuXingSocialHousing/static/css/main.82bb6d22.css.map",
+    "main.50573f06.js.map": "/FuXingSocialHousing/static/js/main.50573f06.js.map",
+    "787.d4aba7ab.chunk.js.map": "/FuXingSocialHousing/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82bb6d22.css",
+    "static/js/main.50573f06.js"
+  ]
+}
